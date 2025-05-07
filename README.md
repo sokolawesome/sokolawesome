@@ -66,11 +66,11 @@ Comfortable with server tasks.
 
 ### GitHub Stats
 
-| [![Aleksandr's GitHub stats](https://github-readme-stats.vercel.app/api?username=sokolawesome&show_icons=true&theme=catppuccin_mocha)](https://github.com/anuraghazra/github-readme-stats) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sokolawesome&theme=catppuccin_mocha)](https://github.com/DenverCoder1/github-readme-streak-stats) | [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sokolawesome&layout=compact&theme=catppuccin_mocha)](https://github.com/anuraghazra/github-readme-stats) |
-|:---:|:---:|:---:|
-
-[![GitHub Profile Trophies](https://github-profile-trophy.vercel.app/api?username=sokolawesome&theme=catppuccin_mocha)](https://github.com/ryo-ma/github-profile-trophy)
+[![Aleksandr's GitHub stats](https://github-readme-stats.vercel.app/api?username=sokolawesome&show_icons=true&theme=catppuccin_mocha)](https://github.com/anuraghazra/github-readme-stats)
 |:---:|
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sokolawesome&theme=catppuccin_mocha)](https://github.com/DenverCoder1/github-readme-streak-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sokolawesome&layout=compact&theme=catppuccin_mocha)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Profile Trophies](https://github-profile-trophy.vercel.app/api?username=sokolawesome&theme=catppuccin_mocha)](https://github.com/ryo-ma/github-profile-trophy)
 [![Aleksandr's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sokolawesome&theme=catppuccin_mocha)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
 
